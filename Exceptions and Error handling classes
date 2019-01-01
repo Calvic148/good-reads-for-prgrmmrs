@@ -3,6 +3,8 @@
 
 #Exceptions
 
+
+
 ArithmeticException
 
 ArrayIndexOutOfBoundsException
@@ -57,7 +59,12 @@ TypeNotPresentException
 
 UnsupportedOperationException
 
+
+
+
 #Errors
+
+
 
 AbstractMethodError
 
